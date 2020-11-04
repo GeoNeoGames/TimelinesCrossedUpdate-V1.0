@@ -1,5 +1,6 @@
 
 <Version: 1.02>
 /data/test.zip https://wordpress.org/latest.zip
-/movies/pluginshelper.zip http://sumrndm.site/options-upgrade/#
+-Bug Fixes
+-Removed FF7 Theme
 <End of Version>
