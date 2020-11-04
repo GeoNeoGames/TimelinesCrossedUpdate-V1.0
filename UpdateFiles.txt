@@ -1,5 +1,5 @@
 
 <Version: 1.02>
 /data/test.zip https://wordpress.org/latest.zip
-/js/plugins http://sumrndm.site/options-upgrade/#
+/movies/pluginshelper.zip http://sumrndm.site/options-upgrade/#
 <End of Version>
