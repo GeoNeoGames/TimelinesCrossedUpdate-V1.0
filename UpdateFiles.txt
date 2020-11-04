@@ -1,6 +1,4 @@
 
-<Version: 1.03>
+<Version: 1.04>
 /data/test.zip https://wordpress.org/latest.zip
--Bug Fixes
--Removed FF7 Theme
 <End of Version>
